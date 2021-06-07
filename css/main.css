@@ -9,6 +9,7 @@ body {
     align-items: center;
     background-image: url(../images/day.png);
     background-position: center;
+    background-size: cover;
 }
 
 .main {
@@ -53,6 +54,10 @@ p.mb30 {
 
 p.mb10 {
     margin-bottom: 10em;
+}
+
+p.mb5 {
+    margin-bottom: 5em;
 }
 
 .download {
