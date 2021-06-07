@@ -65,3 +65,13 @@ p.mb5 {
     color: white;
     text-decoration: none;
 }
+
+@media screen and (max-width: 767px) {
+    p.mbsmp {
+        margin-bottom: 10em;
+    }
+
+    .smp {
+        display: none;
+    }
+}
